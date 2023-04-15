@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "LVFGc16jWkc7G5Iv6voDhQt3mQ0KLcPg2/kVY5+TvKhZELHP/Cf+0c+u4kxDbQ9q2ewlKIsEF7FpizOg5FVMuQ==",
+  "success": true,
+  "projectFilePath": "D:\\Projects-backup\\example_projects\\.Net\\UnitTestFakeDB\\Entities\\Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DESKTOP\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\DESKTOP\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\DESKTOP\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

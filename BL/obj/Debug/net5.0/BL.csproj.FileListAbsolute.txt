@@ -1,0 +1,60 @@
+D:\Projects-backup\UnitTestFakeDB\BL\bin\Debug\net5.0\BL.deps.json
+D:\Projects-backup\UnitTestFakeDB\BL\bin\Debug\net5.0\BL.runtimeconfig.json
+D:\Projects-backup\UnitTestFakeDB\BL\bin\Debug\net5.0\BL.runtimeconfig.dev.json
+D:\Projects-backup\UnitTestFakeDB\BL\bin\Debug\net5.0\BL.dll
+D:\Projects-backup\UnitTestFakeDB\BL\bin\Debug\net5.0\ref\BL.dll
+D:\Projects-backup\UnitTestFakeDB\BL\bin\Debug\net5.0\BL.pdb
+D:\Projects-backup\UnitTestFakeDB\BL\bin\Debug\net5.0\Dal.dll
+D:\Projects-backup\UnitTestFakeDB\BL\bin\Debug\net5.0\Entities.dll
+D:\Projects-backup\UnitTestFakeDB\BL\bin\Debug\net5.0\Dal.pdb
+D:\Projects-backup\UnitTestFakeDB\BL\bin\Debug\net5.0\Entities.pdb
+D:\Projects-backup\UnitTestFakeDB\BL\obj\Debug\net5.0\BL.csprojAssemblyReference.cache
+D:\Projects-backup\UnitTestFakeDB\BL\obj\Debug\net5.0\BL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects-backup\UnitTestFakeDB\BL\obj\Debug\net5.0\BL.AssemblyInfoInputs.cache
+D:\Projects-backup\UnitTestFakeDB\BL\obj\Debug\net5.0\BL.AssemblyInfo.cs
+D:\Projects-backup\UnitTestFakeDB\BL\obj\Debug\net5.0\BL.csproj.CoreCompileInputs.cache
+D:\Projects-backup\UnitTestFakeDB\BL\obj\Debug\net5.0\BL.csproj.CopyComplete
+D:\Projects-backup\UnitTestFakeDB\BL\obj\Debug\net5.0\BL.dll
+D:\Projects-backup\UnitTestFakeDB\BL\obj\Debug\net5.0\ref\BL.dll
+D:\Projects-backup\UnitTestFakeDB\BL\obj\Debug\net5.0\BL.pdb
+D:\Projects-backup\UnitTestFakeDB\BL\obj\Debug\net5.0\BL.genruntimeconfig.cache
+D:\Projects-backup\example projects\UnitTestFakeDB\BL\bin\Debug\net5.0\BL.deps.json
+D:\Projects-backup\example projects\UnitTestFakeDB\BL\bin\Debug\net5.0\BL.runtimeconfig.json
+D:\Projects-backup\example projects\UnitTestFakeDB\BL\bin\Debug\net5.0\BL.runtimeconfig.dev.json
+D:\Projects-backup\example projects\UnitTestFakeDB\BL\bin\Debug\net5.0\BL.dll
+D:\Projects-backup\example projects\UnitTestFakeDB\BL\bin\Debug\net5.0\ref\BL.dll
+D:\Projects-backup\example projects\UnitTestFakeDB\BL\bin\Debug\net5.0\BL.pdb
+D:\Projects-backup\example projects\UnitTestFakeDB\BL\bin\Debug\net5.0\Dal.dll
+D:\Projects-backup\example projects\UnitTestFakeDB\BL\bin\Debug\net5.0\Entities.dll
+D:\Projects-backup\example projects\UnitTestFakeDB\BL\bin\Debug\net5.0\Dal.pdb
+D:\Projects-backup\example projects\UnitTestFakeDB\BL\bin\Debug\net5.0\Entities.pdb
+D:\Projects-backup\example projects\UnitTestFakeDB\BL\obj\Debug\net5.0\BL.csprojAssemblyReference.cache
+D:\Projects-backup\example projects\UnitTestFakeDB\BL\obj\Debug\net5.0\BL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects-backup\example projects\UnitTestFakeDB\BL\obj\Debug\net5.0\BL.AssemblyInfoInputs.cache
+D:\Projects-backup\example projects\UnitTestFakeDB\BL\obj\Debug\net5.0\BL.AssemblyInfo.cs
+D:\Projects-backup\example projects\UnitTestFakeDB\BL\obj\Debug\net5.0\BL.csproj.CoreCompileInputs.cache
+D:\Projects-backup\example projects\UnitTestFakeDB\BL\obj\Debug\net5.0\BL.csproj.CopyComplete
+D:\Projects-backup\example projects\UnitTestFakeDB\BL\obj\Debug\net5.0\BL.dll
+D:\Projects-backup\example projects\UnitTestFakeDB\BL\obj\Debug\net5.0\ref\BL.dll
+D:\Projects-backup\example projects\UnitTestFakeDB\BL\obj\Debug\net5.0\BL.pdb
+D:\Projects-backup\example projects\UnitTestFakeDB\BL\obj\Debug\net5.0\BL.genruntimeconfig.cache
+D:\Projects-backup\example_projects\.Net\UnitTestFakeDB\BL\bin\Debug\net5.0\BL.deps.json
+D:\Projects-backup\example_projects\.Net\UnitTestFakeDB\BL\bin\Debug\net5.0\BL.runtimeconfig.json
+D:\Projects-backup\example_projects\.Net\UnitTestFakeDB\BL\bin\Debug\net5.0\BL.runtimeconfig.dev.json
+D:\Projects-backup\example_projects\.Net\UnitTestFakeDB\BL\bin\Debug\net5.0\BL.dll
+D:\Projects-backup\example_projects\.Net\UnitTestFakeDB\BL\bin\Debug\net5.0\BL.pdb
+D:\Projects-backup\example_projects\.Net\UnitTestFakeDB\BL\bin\Debug\net5.0\Dal.dll
+D:\Projects-backup\example_projects\.Net\UnitTestFakeDB\BL\bin\Debug\net5.0\Entities.dll
+D:\Projects-backup\example_projects\.Net\UnitTestFakeDB\BL\bin\Debug\net5.0\Dal.pdb
+D:\Projects-backup\example_projects\.Net\UnitTestFakeDB\BL\bin\Debug\net5.0\Entities.pdb
+D:\Projects-backup\example_projects\.Net\UnitTestFakeDB\BL\obj\Debug\net5.0\BL.csproj.AssemblyReference.cache
+D:\Projects-backup\example_projects\.Net\UnitTestFakeDB\BL\obj\Debug\net5.0\BL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects-backup\example_projects\.Net\UnitTestFakeDB\BL\obj\Debug\net5.0\BL.AssemblyInfoInputs.cache
+D:\Projects-backup\example_projects\.Net\UnitTestFakeDB\BL\obj\Debug\net5.0\BL.AssemblyInfo.cs
+D:\Projects-backup\example_projects\.Net\UnitTestFakeDB\BL\obj\Debug\net5.0\BL.csproj.CoreCompileInputs.cache
+D:\Projects-backup\example_projects\.Net\UnitTestFakeDB\BL\obj\Debug\net5.0\BL.csproj.CopyComplete
+D:\Projects-backup\example_projects\.Net\UnitTestFakeDB\BL\obj\Debug\net5.0\BL.dll
+D:\Projects-backup\example_projects\.Net\UnitTestFakeDB\BL\obj\Debug\net5.0\refint\BL.dll
+D:\Projects-backup\example_projects\.Net\UnitTestFakeDB\BL\obj\Debug\net5.0\BL.pdb
+D:\Projects-backup\example_projects\.Net\UnitTestFakeDB\BL\obj\Debug\net5.0\BL.genruntimeconfig.cache
+D:\Projects-backup\example_projects\.Net\UnitTestFakeDB\BL\obj\Debug\net5.0\ref\BL.dll

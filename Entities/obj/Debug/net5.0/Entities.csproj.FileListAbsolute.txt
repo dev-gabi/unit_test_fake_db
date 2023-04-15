@@ -1,0 +1,36 @@
+D:\Projects-backup\UnitTestFakeDB\Entities\bin\Debug\net5.0\Entities.deps.json
+D:\Projects-backup\UnitTestFakeDB\Entities\bin\Debug\net5.0\Entities.dll
+D:\Projects-backup\UnitTestFakeDB\Entities\bin\Debug\net5.0\ref\Entities.dll
+D:\Projects-backup\UnitTestFakeDB\Entities\bin\Debug\net5.0\Entities.pdb
+D:\Projects-backup\UnitTestFakeDB\Entities\obj\Debug\net5.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects-backup\UnitTestFakeDB\Entities\obj\Debug\net5.0\Entities.AssemblyInfoInputs.cache
+D:\Projects-backup\UnitTestFakeDB\Entities\obj\Debug\net5.0\Entities.AssemblyInfo.cs
+D:\Projects-backup\UnitTestFakeDB\Entities\obj\Debug\net5.0\Entities.csproj.CoreCompileInputs.cache
+D:\Projects-backup\UnitTestFakeDB\Entities\obj\Debug\net5.0\Entities.dll
+D:\Projects-backup\UnitTestFakeDB\Entities\obj\Debug\net5.0\ref\Entities.dll
+D:\Projects-backup\UnitTestFakeDB\Entities\obj\Debug\net5.0\Entities.pdb
+D:\Projects-backup\UnitTestFakeDB\Entities\obj\Debug\net5.0\Entities.csprojAssemblyReference.cache
+D:\Projects-backup\example projects\UnitTestFakeDB\Entities\bin\Debug\net5.0\Entities.deps.json
+D:\Projects-backup\example projects\UnitTestFakeDB\Entities\bin\Debug\net5.0\Entities.dll
+D:\Projects-backup\example projects\UnitTestFakeDB\Entities\bin\Debug\net5.0\ref\Entities.dll
+D:\Projects-backup\example projects\UnitTestFakeDB\Entities\bin\Debug\net5.0\Entities.pdb
+D:\Projects-backup\example projects\UnitTestFakeDB\Entities\obj\Debug\net5.0\Entities.csprojAssemblyReference.cache
+D:\Projects-backup\example projects\UnitTestFakeDB\Entities\obj\Debug\net5.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects-backup\example projects\UnitTestFakeDB\Entities\obj\Debug\net5.0\Entities.AssemblyInfoInputs.cache
+D:\Projects-backup\example projects\UnitTestFakeDB\Entities\obj\Debug\net5.0\Entities.AssemblyInfo.cs
+D:\Projects-backup\example projects\UnitTestFakeDB\Entities\obj\Debug\net5.0\Entities.csproj.CoreCompileInputs.cache
+D:\Projects-backup\example projects\UnitTestFakeDB\Entities\obj\Debug\net5.0\Entities.dll
+D:\Projects-backup\example projects\UnitTestFakeDB\Entities\obj\Debug\net5.0\ref\Entities.dll
+D:\Projects-backup\example projects\UnitTestFakeDB\Entities\obj\Debug\net5.0\Entities.pdb
+D:\Projects-backup\example_projects\.Net\UnitTestFakeDB\Entities\bin\Debug\net5.0\Entities.deps.json
+D:\Projects-backup\example_projects\.Net\UnitTestFakeDB\Entities\bin\Debug\net5.0\Entities.dll
+D:\Projects-backup\example_projects\.Net\UnitTestFakeDB\Entities\bin\Debug\net5.0\Entities.pdb
+D:\Projects-backup\example_projects\.Net\UnitTestFakeDB\Entities\obj\Debug\net5.0\Entities.csproj.AssemblyReference.cache
+D:\Projects-backup\example_projects\.Net\UnitTestFakeDB\Entities\obj\Debug\net5.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects-backup\example_projects\.Net\UnitTestFakeDB\Entities\obj\Debug\net5.0\Entities.AssemblyInfoInputs.cache
+D:\Projects-backup\example_projects\.Net\UnitTestFakeDB\Entities\obj\Debug\net5.0\Entities.AssemblyInfo.cs
+D:\Projects-backup\example_projects\.Net\UnitTestFakeDB\Entities\obj\Debug\net5.0\Entities.csproj.CoreCompileInputs.cache
+D:\Projects-backup\example_projects\.Net\UnitTestFakeDB\Entities\obj\Debug\net5.0\Entities.dll
+D:\Projects-backup\example_projects\.Net\UnitTestFakeDB\Entities\obj\Debug\net5.0\refint\Entities.dll
+D:\Projects-backup\example_projects\.Net\UnitTestFakeDB\Entities\obj\Debug\net5.0\Entities.pdb
+D:\Projects-backup\example_projects\.Net\UnitTestFakeDB\Entities\obj\Debug\net5.0\ref\Entities.dll

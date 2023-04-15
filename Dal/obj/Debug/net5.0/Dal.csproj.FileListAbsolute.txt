@@ -1,0 +1,54 @@
+D:\Projects-backup\UnitTestFakeDB\Dal\bin\Debug\net5.0\Dal.deps.json
+D:\Projects-backup\UnitTestFakeDB\Dal\bin\Debug\net5.0\Dal.runtimeconfig.json
+D:\Projects-backup\UnitTestFakeDB\Dal\bin\Debug\net5.0\Dal.runtimeconfig.dev.json
+D:\Projects-backup\UnitTestFakeDB\Dal\bin\Debug\net5.0\Dal.dll
+D:\Projects-backup\UnitTestFakeDB\Dal\bin\Debug\net5.0\ref\Dal.dll
+D:\Projects-backup\UnitTestFakeDB\Dal\bin\Debug\net5.0\Dal.pdb
+D:\Projects-backup\UnitTestFakeDB\Dal\bin\Debug\net5.0\Entities.dll
+D:\Projects-backup\UnitTestFakeDB\Dal\bin\Debug\net5.0\Entities.pdb
+D:\Projects-backup\UnitTestFakeDB\Dal\obj\Debug\net5.0\Dal.csprojAssemblyReference.cache
+D:\Projects-backup\UnitTestFakeDB\Dal\obj\Debug\net5.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects-backup\UnitTestFakeDB\Dal\obj\Debug\net5.0\Dal.AssemblyInfoInputs.cache
+D:\Projects-backup\UnitTestFakeDB\Dal\obj\Debug\net5.0\Dal.AssemblyInfo.cs
+D:\Projects-backup\UnitTestFakeDB\Dal\obj\Debug\net5.0\Dal.csproj.CoreCompileInputs.cache
+D:\Projects-backup\UnitTestFakeDB\Dal\obj\Debug\net5.0\Dal.csproj.CopyComplete
+D:\Projects-backup\UnitTestFakeDB\Dal\obj\Debug\net5.0\Dal.dll
+D:\Projects-backup\UnitTestFakeDB\Dal\obj\Debug\net5.0\ref\Dal.dll
+D:\Projects-backup\UnitTestFakeDB\Dal\obj\Debug\net5.0\Dal.pdb
+D:\Projects-backup\UnitTestFakeDB\Dal\obj\Debug\net5.0\Dal.genruntimeconfig.cache
+D:\Projects-backup\example projects\UnitTestFakeDB\Dal\bin\Debug\net5.0\Dal.deps.json
+D:\Projects-backup\example projects\UnitTestFakeDB\Dal\bin\Debug\net5.0\Dal.runtimeconfig.json
+D:\Projects-backup\example projects\UnitTestFakeDB\Dal\bin\Debug\net5.0\Dal.runtimeconfig.dev.json
+D:\Projects-backup\example projects\UnitTestFakeDB\Dal\bin\Debug\net5.0\Dal.dll
+D:\Projects-backup\example projects\UnitTestFakeDB\Dal\bin\Debug\net5.0\ref\Dal.dll
+D:\Projects-backup\example projects\UnitTestFakeDB\Dal\bin\Debug\net5.0\Dal.pdb
+D:\Projects-backup\example projects\UnitTestFakeDB\Dal\bin\Debug\net5.0\Entities.dll
+D:\Projects-backup\example projects\UnitTestFakeDB\Dal\bin\Debug\net5.0\Entities.pdb
+D:\Projects-backup\example projects\UnitTestFakeDB\Dal\obj\Debug\net5.0\Dal.csprojAssemblyReference.cache
+D:\Projects-backup\example projects\UnitTestFakeDB\Dal\obj\Debug\net5.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects-backup\example projects\UnitTestFakeDB\Dal\obj\Debug\net5.0\Dal.AssemblyInfoInputs.cache
+D:\Projects-backup\example projects\UnitTestFakeDB\Dal\obj\Debug\net5.0\Dal.AssemblyInfo.cs
+D:\Projects-backup\example projects\UnitTestFakeDB\Dal\obj\Debug\net5.0\Dal.csproj.CoreCompileInputs.cache
+D:\Projects-backup\example projects\UnitTestFakeDB\Dal\obj\Debug\net5.0\Dal.csproj.CopyComplete
+D:\Projects-backup\example projects\UnitTestFakeDB\Dal\obj\Debug\net5.0\Dal.dll
+D:\Projects-backup\example projects\UnitTestFakeDB\Dal\obj\Debug\net5.0\ref\Dal.dll
+D:\Projects-backup\example projects\UnitTestFakeDB\Dal\obj\Debug\net5.0\Dal.pdb
+D:\Projects-backup\example projects\UnitTestFakeDB\Dal\obj\Debug\net5.0\Dal.genruntimeconfig.cache
+D:\Projects-backup\example_projects\.Net\UnitTestFakeDB\Dal\bin\Debug\net5.0\Dal.deps.json
+D:\Projects-backup\example_projects\.Net\UnitTestFakeDB\Dal\bin\Debug\net5.0\Dal.runtimeconfig.json
+D:\Projects-backup\example_projects\.Net\UnitTestFakeDB\Dal\bin\Debug\net5.0\Dal.runtimeconfig.dev.json
+D:\Projects-backup\example_projects\.Net\UnitTestFakeDB\Dal\bin\Debug\net5.0\Dal.dll
+D:\Projects-backup\example_projects\.Net\UnitTestFakeDB\Dal\bin\Debug\net5.0\Dal.pdb
+D:\Projects-backup\example_projects\.Net\UnitTestFakeDB\Dal\bin\Debug\net5.0\Entities.dll
+D:\Projects-backup\example_projects\.Net\UnitTestFakeDB\Dal\bin\Debug\net5.0\Entities.pdb
+D:\Projects-backup\example_projects\.Net\UnitTestFakeDB\Dal\obj\Debug\net5.0\Dal.csproj.AssemblyReference.cache
+D:\Projects-backup\example_projects\.Net\UnitTestFakeDB\Dal\obj\Debug\net5.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects-backup\example_projects\.Net\UnitTestFakeDB\Dal\obj\Debug\net5.0\Dal.AssemblyInfoInputs.cache
+D:\Projects-backup\example_projects\.Net\UnitTestFakeDB\Dal\obj\Debug\net5.0\Dal.AssemblyInfo.cs
+D:\Projects-backup\example_projects\.Net\UnitTestFakeDB\Dal\obj\Debug\net5.0\Dal.csproj.CoreCompileInputs.cache
+D:\Projects-backup\example_projects\.Net\UnitTestFakeDB\Dal\obj\Debug\net5.0\Dal.csproj.CopyComplete
+D:\Projects-backup\example_projects\.Net\UnitTestFakeDB\Dal\obj\Debug\net5.0\Dal.dll
+D:\Projects-backup\example_projects\.Net\UnitTestFakeDB\Dal\obj\Debug\net5.0\refint\Dal.dll
+D:\Projects-backup\example_projects\.Net\UnitTestFakeDB\Dal\obj\Debug\net5.0\Dal.pdb
+D:\Projects-backup\example_projects\.Net\UnitTestFakeDB\Dal\obj\Debug\net5.0\Dal.genruntimeconfig.cache
+D:\Projects-backup\example_projects\.Net\UnitTestFakeDB\Dal\obj\Debug\net5.0\ref\Dal.dll
