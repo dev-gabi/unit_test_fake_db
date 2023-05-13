@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
+using System.Linq;
 
 namespace Entities
 {
@@ -12,5 +13,7 @@ namespace Entities
         public string Url { get; set; }
 
         public virtual List<Post> Posts { get; set; }
+
+
     }
 }

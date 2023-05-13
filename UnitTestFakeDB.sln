@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dal", "Dal\Dal.csproj", "{D
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BL", "BL\BL.csproj", "{97D13E69-90D6-4B24-BD32-40FDC0A2E7AD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject", "TestProject\TestProject.csproj", "{5C91F4E6-7852-4BDA-9E5E-26EDDEDEFC38}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestProject", "TestProject\TestProject.csproj", "{5C91F4E6-7852-4BDA-9E5E-26EDDEDEFC38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProjectWithMock", "TestProjectWithMock\TestProjectWithMock.csproj", "{AC8EA395-6971-4D49-B124-E233919261CA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{5C91F4E6-7852-4BDA-9E5E-26EDDEDEFC38}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5C91F4E6-7852-4BDA-9E5E-26EDDEDEFC38}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5C91F4E6-7852-4BDA-9E5E-26EDDEDEFC38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC8EA395-6971-4D49-B124-E233919261CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC8EA395-6971-4D49-B124-E233919261CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC8EA395-6971-4D49-B124-E233919261CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC8EA395-6971-4D49-B124-E233919261CA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

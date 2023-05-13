@@ -27,19 +27,17 @@ using System.Linq;
             
             public void DeleteBlog(int id)
             {
-            var blogToDelete = _context.Blogs.Find(id) ;
+              var blogToDelete = _context.Blogs.Find(id) ;
 
-                _context.Blogs.Remove(blogToDelete);
+            _context.Blogs.Remove(blogToDelete);
                _context.SaveChanges();
         }
             public List<Blog> GetAllBlogs()
             {
-            var query = from b in _context.Blogs
-                        orderby b.Name
-                        select b;
-
-      
-            return query.ToList();
+                var query = from b in _context.Blogs
+                            orderby b.Name
+                            select b;
+                return query.ToList();          
             }
 
             public async Task<List<Blog>> GetAllBlogsAsync()
